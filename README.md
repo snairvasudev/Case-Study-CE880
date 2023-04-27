@@ -10,5 +10,7 @@ The code involved the following steps:
   
 The file name of is CE880_Project with the extension ipynb.
 The dataset used is the 'hotel booking' data.
+
 Run the file on Google colab and run each cell one by one.
+
 The data is stored as a csv file in this repository. The repository is cloned and the dataset is imported onto the notebook.
