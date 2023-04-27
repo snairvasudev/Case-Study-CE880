@@ -2,7 +2,8 @@
 
 This study is to determine the impact of EDA and feature engineering on the accuracy of machine learning algorithms in predicting whether a booking will be cancelled based on available data
 
-The code involved the following steps
+The code involved the following steps:
+
   Exploratory Data Analysis (EDA)
   Data Cleaning and Preprocessing
   Training Model
