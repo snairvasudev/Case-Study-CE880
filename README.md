@@ -4,9 +4,9 @@ This study is to determine the impact of EDA and feature engineering on the accu
 
 The code involved the following steps:
 
-  Exploratory Data Analysis (EDA)
-  Data Cleaning and Preprocessing
-  Training Model
+  - Exploratory Data Analysis (EDA)
+  - Data Cleaning and Preprocessing
+  - Training Model
   
 The file name of is CE880_Project with the extension ipynb.
 The dataset used is the 'hotel booking' data.
