@@ -9,7 +9,7 @@ The code involved the following steps:
   - Training Model
   
 The file name of is CE880_Project with the extension ipynb.
-The dataset used is the 'hotel booking' data.
+The dataset used is the 'hotel Cancelation' data.
 
 Run the file on Google colab and run each cell one by one.
 
